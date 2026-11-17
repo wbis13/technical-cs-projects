@@ -1,0 +1,7 @@
+[
+    {
+        "resource": "vpc-0cd885e52fbad5149",
+        "issue": "VPC Flow Logs Disabled",
+        "severity": "MEDIUM"
+    }
+]
